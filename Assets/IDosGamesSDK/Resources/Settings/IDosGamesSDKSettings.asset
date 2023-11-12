@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4addc2a22a48e0949b9d5bc2e541ffea, type: 3}
+  m_Name: IDosGamesSDKSettings
+  m_EditorClassIdentifier: 
+  _iosBundleID: com.idosgames.grandhoteltycoon
+  _iosAppStoreID: 
+  _androidBundleID: com.idosgames.grandhoteltycoon
+  _adMediationPlatform: 2
+  _mediationAppKeyIOS: 
+  _mediationAppKeyAndroid: 1a4471415
+  _banerPosition: 1
+  _bannerEnabled: 1
+  _appMetricaApiKey: 8049caa6-38e1-4900-af66-bd91db8ada4b
+  _firebaseBaseDynamicLink: https://idosgames.com/games/
+  _firebaseDynamicLinkURIPrefix: https://grandhoteltycoon.page.link
+  _iOSAccountDeletionEnabled: 1
+  _AndroidAccountDeletionEnabled: 0
+  _walletAppData:
+    Description: Hi, this is application from iDos Games.
+    URL: https://idosgames.com/
+    Icons:
+    - https://idosgames.com/wp-content/uploads/2022/07/logo180.png
+    Name: Grand Hotel Tycoon

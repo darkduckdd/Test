@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "438673253959",
+    "project_id": "grand-hotel-tycoon-e54d8",
+    "storage_bucket": "grand-hotel-tycoon-e54d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438673253959:android:6cbe802bf655bd05233362",
+        "android_client_info": {
+          "package_name": "com.idosgames.grandhoteltycoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438673253959-qb7kc5b3a9201e93ef282n43pfeamb4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQpIuzkGGejWz7mzmtkCaai9skR69X28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438673253959-qb7kc5b3a9201e93ef282n43pfeamb4s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438673253959-ubt7iuic2j97jbv56asmrmgjm5qtbh9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idosgames.grandhoteltycoon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
